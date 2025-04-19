@@ -32,3 +32,7 @@ Once opened, you can press "a" key to open in virtual device Android, press "i" 
 <p align="center">
     <img src="./screenshot/calculator.png" alt="Counter App Screenshot" width="300"/>
 </p>
+
+
+
+Ejercicio del curso de [Fernando Herrera](https://fernando-herrera.com/)
